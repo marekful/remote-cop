@@ -24,11 +24,11 @@ require (
 	github.com/stretchr/testify v1.8.1
 	github.com/tomasen/realip v0.0.0-20180522021738-f0c99a92ddce
 	go.etcd.io/bbolt v1.3.7
-	golang.org/x/crypto v0.8.0
+	golang.org/x/crypto v0.31.0
 	golang.org/x/image v0.7.0
 	golang.org/x/oauth2 v0.7.0
-	golang.org/x/sys v0.7.0
-	golang.org/x/text v0.9.0
+	golang.org/x/sys v0.28.0
+	golang.org/x/text v0.21.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
 	gopkg.in/yaml.v2 v2.4.0
 )
@@ -62,7 +62,7 @@ require (
 	github.com/ulikunitz/xz v0.5.9 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
-	golang.org/x/net v0.9.0 // indirect
+	golang.org/x/net v0.21.0 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
